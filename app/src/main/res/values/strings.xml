@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ccccUI</string>
+    <string name="back">返回</string>
+    <string name="tip">提示</string>
+    <string name="chat_setting">聊天设置</string>
+    <string name="chat_start_diy">测试测试测试</string>
+</resources>
